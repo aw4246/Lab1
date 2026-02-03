@@ -1,5 +1,4 @@
 # ECE 281 Lab 1 Prelab
-
 ## Prelab questions
 
 ### Truth Table
